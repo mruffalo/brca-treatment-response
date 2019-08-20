@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+data
+output
+.Rproj.user
+*.Rproj
+*.Rout
+.Rhistory
+iterate.dat
+.*.swp
+.RData
+*.out
+slurm_generated/
+gene_knockout.txt
